@@ -13,12 +13,19 @@ Extracted details for the following countries
 
 
 Created following charts from the table:
+![Scatter_Plot](https://github.com/user-attachments/assets/2be95f9d-96f4-4d8d-9595-d657edfc5624)
 
-![Bar_Chart](https://github.com/user-attachments/assets/e360fca1-8c4a-48fe-9cba-ff6f674aceb1)
+![Bubble_Chart](https://github.com/user-attachments/assets/7ee95d92-e047-4280-b83b-96b4951863c6)
 
-![Bar_Chart](https://github.com/user-attachments/assets/c6aa6bba-bfb7-4518-8956-c075c6944594)
+![Bar_Chart](https://github.com/user-attachments/assets/548f7499-dd7b-46f1-88f6-481f6a2aa4e4)
 
+![IN](https://github.com/user-attachments/assets/db63d81c-5e70-4acd-b0ce-045923b5f50c)
 
-![Scatter_Plot](https://github.com/user-attachments/assets/ad667cfb-c0c3-47db-883a-d1c9dec4fac4)
+![PH](https://github.com/user-attachments/assets/861f70ee-eac4-4648-933a-bf03cd87cc29)
 
+![TH](https://github.com/user-attachments/assets/b6a1e38b-b2fb-4bfb-b59c-da97244bb957)
+
+![TR](https://github.com/user-attachments/assets/921f9740-c018-4c0d-9325-8e9241a18137)
+
+![UK](https://github.com/user-attachments/assets/eb3eaa29-9652-483b-92cd-c46c3a9899cf)
 

@@ -1,6 +1,7 @@
 The code describes the process of simplifying the geojson data and converting it into required table.
 
 used the data from 
+
 1: https://api.energyandcleanair.org/stations?country=GB,US,TR,PH,IN,TH&format=geojson
 
 2: https://datahub.io/core/geo-countries#countries

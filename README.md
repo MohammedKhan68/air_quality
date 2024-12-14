@@ -16,7 +16,8 @@ Created following charts from the table:
 
 ![Bar_Chart](https://github.com/user-attachments/assets/e360fca1-8c4a-48fe-9cba-ff6f674aceb1)
 
-![Bubble_Chart](https://github.com/user-attachments/assets/474f6c98-a2cf-4ad1-81be-6260cfdfecba)
+![Bar_Chart](https://github.com/user-attachments/assets/c6aa6bba-bfb7-4518-8956-c075c6944594)
+
 
 ![Scatter_Plot](https://github.com/user-attachments/assets/ad667cfb-c0c3-47db-883a-d1c9dec4fac4)
 

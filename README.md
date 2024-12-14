@@ -2,19 +2,14 @@ The code describes the process of simplifying the geojson data and converting it
 
 used the data from 
 1: https://api.energyandcleanair.org/stations?country=GB,US,TR,PH,IN,TH&format=geojson
+
 2: https://datahub.io/core/geo-countries#countries
 
 Used R-Programming.
 
-Extracted a final table that shows the following details:
-Country	No_of_PM10_stations	Area_in_sq_km	Density_PM10_1000km
-UK	424	363951.6246	1.165
-Thailand	344	627689.5869	0.548
-US	4382	9988745.318	0.439
-Turkey	378	1042454.756	0.363
-India	554	3194599.742	0.173
-Philippines	22	627907.4591	0.035
-![Uploading image.png…]()
+Extracted details for the following countries
+![image](https://github.com/user-attachments/assets/aa173dd5-b804-4490-adc5-1ee56ef592da)
+
 
 
 Created following charts from the table:
